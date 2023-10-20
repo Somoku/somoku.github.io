@@ -11,9 +11,9 @@ title                    : "Sheng Lin"
 title_separator          : "-"
 name                     : &name "Sheng Lin"
 description              : &description "Undergraduate at Peking University (PKU)"
-url                      : https://shenglin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://somoku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Somoku/shenglin.github.io"
+repository               : "Somoku/somoku.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

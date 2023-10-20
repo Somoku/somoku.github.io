@@ -13,3 +13,7 @@ Education
 ======
 * B.S. in Peking University, 2020 - present
 * M.S. in Peking University, 2024 (expected)
+
+Teaching
+======
+* **Teaching Assistant**, Introduction to Computer Systems, Peking University (Fall 2023).
